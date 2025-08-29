@@ -1,0 +1,26 @@
+# Speech Recognition
+SpeechRecognition
+pyttsx3
+sounddevice
+pyaudio
+
+# NLP
+transformers
+torch
+sentencepiece
+
+# System control
+psutil
+pyautogui
+pywin32
+pyttsx3
+
+# For web and API
+flask
+requests
+
+# For reminders and scheduling
+schedule
+
+# Optional (recording / obs support)
+opencv-python
